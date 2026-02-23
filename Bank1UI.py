@@ -10,7 +10,7 @@ import time
 
 # -------------------- PAGE CONFIG --------------------
 st.set_page_config(
-    page_title="HDFC Royal Bank",
+    page_title="HDFC Bank",
     page_icon="🏦",
     layout="wide",
     initial_sidebar_state="collapsed"
@@ -127,7 +127,7 @@ label,
 # -------------------- TITLE --------------------
 st.markdown("""
 <h1 style='text-align:center;color:#075985;font-weight:700;letter-spacing:1px;'>
-🏦 HDFC ROYAL BANK
+🏦 HDFC BANK
 </h1>
 <p style='text-align:center;color:#0369a1;'>
 Digital Banking Dashboard
@@ -144,7 +144,7 @@ color:white;
 margin: 10px 0 25px 0;
 box-shadow: 0 8px 20px rgba(2,132,199,0.25);
 ">
-<b>Welcome to Himanshu Royal Bank</b><br>
+<b>Welcome to HDFC Bank</b><br>
 Manage accounts, deposits, withdrawals and track your digital banking securely.
 </div>
 """, unsafe_allow_html=True)

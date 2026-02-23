@@ -1,0 +1,29 @@
+[
+    {
+        "name": "arpit",
+        "age": "",
+        "Phonenumber": "7878787878",
+        "Email": "arpit@gmIl.com",
+        "Pin": "",
+        "Account.no": "I630AB4o",
+        "Balance": 4000
+    },
+    {
+        "name": "himanshu malviya",
+        "age": 20,
+        "Phonenumber": 7974646353,
+        "Email": "himanshumalviya380@gmail.com",
+        "Pin": 1111,
+        "Account.no": "3I3c43NJ",
+        "Balance": 499500
+    },
+    {
+        "name": "himanshu malviya",
+        "age": 20,
+        "Phonenumber": 7974646353,
+        "Email": "himanshumalviya380@gmail.com",
+        "Pin": 1122,
+        "Account.no": "70Tdm1B0",
+        "Balance": 495000
+    }
+]
